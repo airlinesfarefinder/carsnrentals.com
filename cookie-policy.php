@@ -12,7 +12,7 @@ include 'inc/head.php';
 
 <body>
     <?php
-    include 'inc/nav-policy.php';
+    include 'inc/carRental/nav.php';
     include 'inc/policies/cookies.php';
     include 'inc/footer.php';
     include 'inc/scripts.php';
