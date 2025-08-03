@@ -33,5 +33,29 @@
  <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/bootstrap.min.css">
 
+
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17428299447"></script>
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+ 
+  gtag('config', 'AW-17428299447');
+</script>
+ 
+<script>
+
+  gtag('config', 'AW-17428299447/8es4CKyH7v4aELf9uvZA', {
+
+    'phone_conversion_number': '(888) 958-1310'
+
+  });
+</script>
+ 
+
 </head>
 
