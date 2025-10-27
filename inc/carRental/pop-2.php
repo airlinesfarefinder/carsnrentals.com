@@ -34,7 +34,7 @@
         <!-- Title -->
         <div class="text-4xl mt-2 text-[#243574] text-center pt-10 rounded -mb-1 font-bold">
 
-            Car Rental - Contact Us
+            Car Rental's - Contact Us
         </div>
 
         <div class="text-2xl text-[#243574] text-center py-1 rounded mb-3 font-bold">
@@ -57,7 +57,7 @@
 
         <!-- Call Section -->
         <div class="text-center">
-            <img src="./assets/img/customer service.png" alt="Customer service" class="mx-auto rounded-full w-28 mb-2" />
+            <img src="./assets/img/customer service.png" alt="Customer service" class="mx-auto rounded-full w-44 mb-2" />
             <p class="font-semibold mb-3 text-2xl">No Hold - Call Answered in 5 Sec</p>
 
             <button
@@ -67,6 +67,10 @@
             </button>
 
             <div class="text-2xl font-bold text-gray-500">Click To Call!</div>
+        </div>
+        <div class="text-2xl mt-2 text-[#243574] text-center pt-10 rounded -mb-1 font-bold">
+
+            For Unpublished Deals, Call Now
         </div>
     </a>
 </div>
