@@ -24,6 +24,7 @@ include 'inc/head.php';
     include "inc/carRental/popular.php";
     // include "inc/carRental/business_class.php";
     include "inc/carRental/review.php";
+    
     include 'inc/footer.php';
     include 'inc/carRental/bottom.php';
     include 'inc/scripts.php';

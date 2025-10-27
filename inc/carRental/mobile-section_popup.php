@@ -200,7 +200,7 @@
     <div class="main-content">
       <div class="middle_dark_over"></div>
       <div class="content-inner">
-        <h1 class="desk-title">Car Reservation Help Desk</h1>
+        <h1 class="desk-title">Car Rental - Contact Us</h1>
 
         <div class="services-grid">
           <div class="service-item">New bookings</div>
