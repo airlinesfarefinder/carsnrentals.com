@@ -27,7 +27,7 @@
             </div>
 
             <div class="flex items-center space-x-1 border border-gray-400 rounded px-2 py-0.5 text-xs">
-                <span class="font-medium text-lg">(888) 958-1310</span>
+                <span class="font-bold text-xl">(888) 958-1310</span>
             </div>
         </div>
 
