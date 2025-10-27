@@ -34,7 +34,7 @@
         font-weight: 500;
         text-transform: capitalize;
         color: #fff;
-    
+
     }
 
     #nav .menu ul li.withicon {
@@ -72,7 +72,7 @@
         background-position: left;
         background-repeat: no-repeat;
         background-size: contain;
-        margin-bottom:0px !important;
+        margin-bottom: 0px !important;
     }
 
     #nav .menu.right {
@@ -80,16 +80,15 @@
         margin-right: 10px;
     }
 
-     @media (max-width: 480px) {
-   #nav .logo {
-    
-        width: 160px;
-        height: 55px;
-      
+    @media (max-width: 480px) {
+        #nav .logo {
+
+            width: 160px;
+            height: 55px;
+
+        }
+
     }
-
-      }
-
 </style>
 
 

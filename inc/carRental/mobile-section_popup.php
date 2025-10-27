@@ -68,7 +68,7 @@
     height: 100%;
     background-color: rgba(0, 0, 0, 0.35);
     ;
-    z-index: 1;
+    /* z-index: 1; */
 
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -78,7 +78,7 @@
 
   .reservation-container .content-inner {
     position: relative;
-    z-index: 2;
+    /* z-index: 2; */
   }
 
   .reservation-container .desk-title {

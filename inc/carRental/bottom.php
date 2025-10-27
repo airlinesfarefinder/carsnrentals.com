@@ -10,7 +10,7 @@
          background: #066ca5;
          padding: 12px 20px;
          text-align: center;
-         z-index: 1000;
+         /* z-index: 1000; */
          box-shadow: 0 -4px 12px rgba(0, 0, 0, 0.25);
          border-top: 2px solid rgba(255, 255, 255, 0.2);
          display: block;

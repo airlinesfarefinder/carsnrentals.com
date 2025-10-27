@@ -34,7 +34,7 @@
         margin: 0 auto;
         padding: 15px 20px;
         position: relative;
-        z-index: 1;
+        /* z-index: 1; */
     }
 
     .footer-grid {

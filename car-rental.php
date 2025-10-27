@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!-- Tailwind CSS -->
+<script src="https://cdn.tailwindcss.com"></script>
+ 
+<!-- Font Awesome for icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
 
 <?php
 include 'inc/config.php';
@@ -11,9 +17,14 @@ include 'inc/head.php';
 
 
 <body>
+
+
+
+ 
      <?php
     // include 'inc/carRental/ticker.php';
     include 'inc/carRental/nav.php';
+include "inc/carRental/pop-2.php";
 
     include "inc/carRental/mobile-section_popup.php";
     
