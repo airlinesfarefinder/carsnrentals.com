@@ -44,10 +44,10 @@
 
         <!-- Buttons -->
         <div class="grid grid-cols-2 mt-8 gap-2 mb-5">
-            <button class="bg-[#1A3356] text-white rounded-full py-2 px-2 text-sm font-semibold">New Booking</button>
-            <button class="bg-[#1A3356] text-white rounded-full py-2 px-2 text-sm font-semibold">Changes</button>
-            <button class="bg-[#1A3356] text-white rounded-full py-2 px-2 text-sm font-semibold">Cancellation</button>
-            <button class="bg-[#1A3356] text-white rounded-full py-2 px-2 text-sm font-semibold">Customer Service</button>
+            <button class="bg-[#FFCC00] text-black rounded-full py-6 px-2 text-2xl font-bold">New Booking</button>
+            <button class="bg-[#FFCC00] text-black rounded-full py-6 px-2 text-2xl font-bold">Changes</button>
+            <button class="bg-[#FFCC00] text-black rounded-full py-6 px-2 text-2xl font-bold">Cancellation</button>
+            <button class="bg-[#FFCC00] text-black rounded-full py-6 px-2 text-2xl font-bold">Customer Service</button>
         </div>
 
         <!-- Airplane -->
@@ -58,11 +58,11 @@
         <!-- Call Section -->
         <div class="text-center">
             <img src="./assets/img/customer service.png" alt="Customer service" class="mx-auto rounded-full w-28 mb-2" />
-            <p class="font-semibold mb-1 text-2xl">No Hold - Call Answered in 5 Sec</p>
+            <p class="font-semibold mb-3 text-2xl">No Hold - Call Answered in 5 Sec</p>
 
             <button
 
-                class="bg-[#FE5A04] text-white px-6 py-2 rounded-full flex items-center justify-center mx-auto mb-1 text-3xl font-semibold">
+                class="bg-[#FFCC00] text-black px-6 py-2 rounded-full flex items-center justify-center mx-auto mb-3 text-3xl font-bold">
                 <i class="fa fa-phone mr-2"></i> (888) 958-1310
             </button>
 
