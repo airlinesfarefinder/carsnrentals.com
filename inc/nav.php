@@ -116,6 +116,11 @@
                                     </li>
 
 
+                                    <li>
+                                        <a href="us-flights.php">
+                                            US-Flights
+                                        </a>
+                                    </li>
 
 
                                     <li>
@@ -149,7 +154,7 @@
                                         <span class="icon"
                                             style="background-image:url('assets/img/24-hours.png'); width:20px;"></span>
 
-                                        <a href="tel:(888) 257-3866">(888) 257-3866</a>
+                                        <a href="tel:(888) 501-9511">(888) 501-9511</a>
 
 
                                     </li>

@@ -168,7 +168,7 @@
                         <div class="testimonial-content">
                             <div class="stars">★★★★★</div>
                             <p>
-                               Booking my flights with Deals Tickets Today was incredibly easy and stress-free. I love how they offer a wide range of airlines and fare options, making it simple to find the best deals that suit my budget. The whole process was smooth, convenient, and perfect for planning my next getaway.
+                               Booking my flights with Cars N Rentals was incredibly easy and stress-free. I love how they offer a wide range of airlines and fare options, making it simple to find the best deals that suit my budget. The whole process was smooth, convenient, and perfect for planning my next getaway.
                             </p>
                             <div class="testimonial-author">Kimberly W.</div>
                             <div class="testimonial-date">April 2025</div>
@@ -178,7 +178,7 @@
                         <div class="testimonial-content">
                             <div class="stars">★★★★★</div>
                             <p>
-                              I no longer book flights directly through the airlines because Deals Tickets Today has everything I need. The prices are better, the variety of flight options is incredible, and their flexible payment choices make booking easy. When I made a mistake, their representative fixed it with kindness.
+                              I no longer book flights directly through the airlines because Cars N Rentals has everything I need. The prices are better, the variety of flight options is incredible, and their flexible payment choices make booking easy. When I made a mistake, their representative fixed it with kindness.
                             </p>
                             <div class="testimonial-author">Edrica B.</div>
                             <div class="testimonial-date">June 2025</div>

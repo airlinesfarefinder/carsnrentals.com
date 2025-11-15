@@ -251,7 +251,7 @@
     <div class="container">
         <div class="hero-content">
             <h1>
-                Journey to <span class="highlight">Faraway Lands</span> Without the High Cost
+                Fly Across <span class="highlight">The US</span> Without the High Flight Costs
             </h1>
 
             <!-- <a href="tel:(888) 257-3866" class="contact  highlighted"   >

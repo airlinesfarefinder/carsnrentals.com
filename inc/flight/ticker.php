@@ -55,15 +55,15 @@
 </style>
 
 
- <a href="tel:(888) 257-3866">
+ <a href="tel:(888) 501-9511">
 <div class="top-banner">
  
   <div class="scrolling-text">
     <div class="support-info">
       <img src="./assets/img/phone.png" alt="Support Icon" />
-      Customer Support: (888) 257-3866 &nbsp;&nbsp;&nbsp;
+      Customer Support: (888) 501-9511 &nbsp;&nbsp;&nbsp;
       <img src="./assets/img/phone.png" alt="Support Icon" />
-      Customer Support: (888) 257-3866 &nbsp;&nbsp;&nbsp;
+      Customer Support: (888) 501-9511 &nbsp;&nbsp;&nbsp;
     </div>
   </div>
 
