@@ -1,7 +1,7 @@
 <style>
     #small_banner1 {
 
-margin-top:70px;
+margin-top:56px;
         width: 100%;
         background: #6ea6edeb;
         text-align: center;

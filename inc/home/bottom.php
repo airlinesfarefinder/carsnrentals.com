@@ -78,13 +78,13 @@
      }
  </style>
 
- <a href="tel:(888) 257-3866" style="text-decoration: none;">
+ <a href="tel:(888) 958-1310" style="text-decoration: none;">
      <div class="fixed-bottom-section">
 
          <div class="no-hold-text">NO HOLD TIMES: CALL NOW</div>
-         <a href="tel:(888) 257-3866" class="phone">
+         <a href="tel:(888) 958-1310" class="phone">
              <span class="phone-icon"></span>
-             (888) 257-3866
+             (888) 958-1310
          </a>
      </div>
 

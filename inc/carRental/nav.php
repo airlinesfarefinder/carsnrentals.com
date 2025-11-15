@@ -4,7 +4,7 @@
         top: 0;
         left: 0;
         width: 100%;
-        /* z-index: 9999; */
+        z-index: 9999;
         /* margin-top: 30px; */
     }
 
@@ -33,7 +33,7 @@
         font-size: 14px;
         font-weight: 500;
         text-transform: capitalize;
-        color: #fff;
+        color: #000000ff;
 
     }
 
@@ -41,6 +41,7 @@
         padding-left: 30px;
         font-weight: 700;
         font-size: 15px;
+        color: black;
     }
 
     #nav .menu ul li .icon {
