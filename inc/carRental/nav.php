@@ -284,11 +284,11 @@
                         <a href="#" aria-haspopup="true" aria-expanded="false" id="dealsMenu">Flight Deals <i
                                 class="fas fa-caret-down"></i></a>
                         <ul class="dropdown" aria-label="submenu" aria-labelledby="dealsMenu">
-                            <li><a href="carsnrentals.com/southwest-flights.html">Southwest Flights</a></li>
-                            <li><a href="carsnrentals.com/american-flights.html">American Flights</a></li>
-                            <li><a href="carsnrentals.com/delta-flights.html">Delta Flights</a></li>
-                            <li><a href="carsnrentals.com/united-flights.html">United Flights</a></li>
-                            <li><a href="carsnrentals.com/lufthansa-flights.html">Lufthansa Flights</a></li>
+                            <li><a href="southwest-flights.html">Southwest Flights</a></li>
+                            <li><a href="american-flights.html">American Flights</a></li>
+                            <li><a href="delta-flights.html">Delta Flights</a></li>
+                            <li><a href="united-flights.html">United Flights</a></li>
+                            <li><a href="lufthansa-flights.html">Lufthansa Flights</a></li>
                             
                         </ul>
                     </li>
