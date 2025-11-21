@@ -1,7 +1,7 @@
 <style>
   .reservation-container {
 
-    margin-top:55px;
+    margin-top:15px;
   }
 
   .reservation-container a {

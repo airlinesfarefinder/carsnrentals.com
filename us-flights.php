@@ -4,7 +4,7 @@
 
 <?php
 include 'inc/config.php';
-include 'inc/head.php';
+include 'inc/head-1.php';
 ?>
 
 <link rel="stylesheet" href="assets/css/travel_banner.css">
