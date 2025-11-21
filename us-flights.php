@@ -13,7 +13,7 @@ include 'inc/head-1.php';
 <body>
     <?php
      include 'inc/flight/ticker.php';
-    include 'inc/carRental/nav.php';
+    include 'inc/nav.php';
 
     include "inc/flight/mobile-section_popup.php";
     // include "inc/home/form_banner.php";
