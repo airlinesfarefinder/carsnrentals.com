@@ -265,7 +265,7 @@
  
             <!-- Mobile center phone -->
             <div class="phone-center-mobile">
-                <a href="tel:(888) 501-9511"><i class="fas fa-phone-alt"></i> (888) 501-9511</a>
+                <a href="tel:(888) 958-1310"><i class="fas fa-phone-alt"></i> (888) 958-1310</a>
             </div>
  
             <!-- Hamburger menu toggle button -->
@@ -301,7 +301,7 @@
             <!-- Desktop phone block -->
             <div class="phone-block-desktop">
                 <img src="assets/img/24-hours (1).png" alt="Call Icon" />
-                <a href="tel:(888) 501-9511">(888) 501-9511</a>
+                <a href="tel:(888) 958-1310">(888) 958-1310</a>
             </div>
         </div>
     </header>
